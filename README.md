@@ -58,5 +58,5 @@ Faculty of Sciences Ben M’Sik, Hassan II University, Casablanca
 This project is for academic use only. Contact us for any reproduction or reuse permissions.
 
 ## Contact
-Feel free to reach out via [email](mailto:hajar_alouani@outlook.fr) or on LinkedIn: [Hajar Alouani](https://www.linkedin.com/in/hajaralouani) / [Wahiba Bousyf](https://www.linkedin.com/in/wahiba-bousyf-416a042a3).
+Feel free to reach out via hajar_alouani@outlook.fr or on our LinkedIn: [Hajar Alouani](https://www.linkedin.com/in/hajaralouani) / [Wahiba Bousyf](https://www.linkedin.com/in/wahiba-bousyf-416a042a3).
 
