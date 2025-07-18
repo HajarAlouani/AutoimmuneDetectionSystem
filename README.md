@@ -45,3 +45,18 @@ We evaluated several supervised machine learning models, including Random Forest
 
 
 Among these models, Random Forest, SVC and XGBoost delivered the most reliable and robust results, with accuracies reaching up to 99.12% and ROC-AUC scores as high as 0.9996. Feature selection techniques such as Lasso-CV and Tree Importance not only enhanced performance but also helped simplify the models. These findings indicate the potential of our AI-based system to offer a high-performing, interpretable, and efficient solution for supporting the diagnosis of autoimmune diseases.
+
+## Team Members
+Wahiba Bousyf 
+Hajar Alouani
+
+## Supervised by
+Pr. Faouzia Benabbou and Dr. Zineb Ellaky   
+Faculty of Sciences Ben M’Sik, Hassan II University, Casablanca
+
+## License
+This project is for academic use only. Contact us for any reproduction or reuse permissions.
+
+## Contact
+Feel free to reach out via [email](mailto:hajar_alouani@outlook.fr) or on [LinkedIn: Hajar Alouani](https://www.linkedin.com/in/hajar-alouani) / [Wahiba Bousyf](https://www.linkedin.com/in/wahiba-bousyf).
+
